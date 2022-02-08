@@ -32,3 +32,5 @@ Here is an example of array sorted using quick sort.
 The following example is quick sort algorithm in python.
 
 ![quick](https://user-images.githubusercontent.com/65388647/152988195-2d0d46a5-2f06-46d3-9a98-a1c332aea7ed.png)
+
+...
